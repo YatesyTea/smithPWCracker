@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Yates/Desktop/Coursework/passwordCracker/passwordCracker/PasswordChecker.h
+stdio.h
+-
+stdlib.h
+-
+StructureDefinitions.h
+/cygdrive/c/Users/Yates/Desktop/Coursework/passwordCracker/passwordCracker/StructureDefinitions.h
+SolutionListOperations.h
+/cygdrive/c/Users/Yates/Desktop/Coursework/passwordCracker/passwordCracker/SolutionListOperations.h
+
+/cygdrive/c/Users/Yates/Desktop/Coursework/passwordCracker/passwordCracker/PasswordDefinitions.h
+
+/cygdrive/c/Users/Yates/Desktop/Coursework/passwordCracker/passwordCracker/SolutionListOperations.h
+
+/cygdrive/c/Users/Yates/Desktop/Coursework/passwordCracker/passwordCracker/StructureDefinitions.h
+PasswordDefinitions.h
+/cygdrive/c/Users/Yates/Desktop/Coursework/passwordCracker/passwordCracker/PasswordDefinitions.h
+
+/cygdrive/c/Users/Yates/Desktop/Coursework/passwordCracker/passwordCracker/main.c
+stdio.h
+-
+stdlib.h
+-
+StructureDefinitions.h
+/cygdrive/c/Users/Yates/Desktop/Coursework/passwordCracker/passwordCracker/StructureDefinitions.h
+SolutionListOperations.h
+/cygdrive/c/Users/Yates/Desktop/Coursework/passwordCracker/passwordCracker/SolutionListOperations.h
+PasswordChecker.h
+/cygdrive/c/Users/Yates/Desktop/Coursework/passwordCracker/passwordCracker/PasswordChecker.h
+

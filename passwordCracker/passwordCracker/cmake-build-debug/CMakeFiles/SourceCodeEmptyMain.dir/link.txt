@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/SourceCodeEmptyMain.dir/main.c.o CMakeFiles/SourceCodeEmptyMain.dir/PasswordChecker.c.o CMakeFiles/SourceCodeEmptyMain.dir/SolutionListOperations.c.o  -o SourceCodeEmptyMain.exe -Wl,--out-implib,libSourceCodeEmptyMain.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
